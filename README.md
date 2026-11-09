@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+  <img src="./New Jeans Newjeans GIF – New jeans Newjeans Kpop - discover and share GIFs (1).gif" width="400">
+</div>
 
 <!--
 **zriinnz/zriinnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
