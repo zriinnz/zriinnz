@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="./newjeans%20gif.gif" width="400">
+</p>
 
 <!--
 **zriinnz/zriinnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
